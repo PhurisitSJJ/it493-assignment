@@ -47,10 +47,34 @@
     "nickname": "Boo",
     "comment": "Su Su Su SIUUUUUUU"
   },
+   {
+    "name": "Chitiphat thangsawat",
+    "studentId": 654106337,
+    "nickname": "UN",
+    "comment": " Hell today"
+  },
   {
     "name": "จิรภัทร์ ทองรัตน์",
     "studentId": 6504106317,
     "nickname": "MK",
     "comment": "Git fork very gud"
+  },
+  {
+    "name": "Siraprapha Thabut",
+    "studentId": 6504106409,
+    "nickname": "์Nui",
+    "comment": "The weather is very hot"
+  },
+  {
+    "name": "Chinnakit Uparakul",
+    "studentId": 6504106338,
+    "nickname": "Chin",
+    "comment": "hell on earth"
+  },
+  {
+    "name": "Nontakorn Ut-umong",
+    "studentId": 6504106362,
+    "nickname": "Phoom",
+    "comment": "Your My SUNSHINE"
   }
 ]
